@@ -391,3 +391,9 @@ a.contato {
     font-family: "Roboto Slab", serif;
     text-decoration: none;
 }
+
+div.fatecVideo{
+    align-content: center;
+    text-align: center;
+    padding: 50px;
+}
